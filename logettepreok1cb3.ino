@@ -1,6 +1,6 @@
 TaskHandle_t Task1;
 TaskHandle_t Task2;
-
+// la premiere partie
 
 #include "core1.h"
 #include "core2.h"
